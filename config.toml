@@ -1,0 +1,4 @@
+baseURL = "http://andrej.io/"
+languageCode = "en-us"
+title = "andrej.io"
+theme = "ananke"
