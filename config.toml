@@ -1,4 +1,16 @@
-baseURL = "http://andrej.io/"
+baseURL = "https://andrej.io/"
 languageCode = "en-us"
 title = "andrej.io"
+
 theme = "hugo_theme_pickles"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax= false
+
+
+[params]
+  paginate = 10
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = "ankoma22"
+  github = "Ankoma22"
